@@ -1,0 +1,163 @@
+2018-08-07 19:44:33.373  INFO 147804 --- [restartedMain] com.hand.ajax.Application                : Starting Application on DESKTOP-4QJHM35 with PID 147804 (E:\workspace\ajax\target\classes started by zhongLingYun in E:\workspace\ajax)
+2018-08-07 19:44:33.373  INFO 147804 --- [restartedMain] com.hand.ajax.Application                : No active profile set, falling back to default profiles: default
+2018-08-07 19:44:33.804  INFO 147804 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-08-07 19:44:33.804  INFO 147804 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.29
+2018-08-07 19:44:33.824  INFO 147804 --- [localhost-startStop-1] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-08-07 19:44:33.831  INFO 147804 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/ajax]   : Initializing Spring embedded WebApplicationContext
+2018-08-07 19:44:34.094  INFO 147804 --- [restartedMain] com.hand.ajax.Application                : Started Application in 0.77 seconds (JVM running for 4445.169)
+2018-08-07 19:44:34.096  INFO 147804 --- [restartedMain] com.hand.ajax.Application                : 启动完毕
+2018-08-07 19:44:44.858  INFO 147804 --- [http-nio-8080-exec-5] o.a.c.c.C.[Tomcat].[localhost].[/ajax]   : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-08-07 19:44:47.938  INFO 147804 --- [http-nio-8080-exec-6] com.zaxxer.hikari.HikariDataSource       : HikariPool-7 - Starting...
+2018-08-07 19:44:47.941  INFO 147804 --- [http-nio-8080-exec-6] com.zaxxer.hikari.HikariDataSource       : HikariPool-7 - Start completed.
+2018-08-07 19:44:47.942  INFO 147804 --- [http-nio-8080-exec-6] com.hand.ajax.controller.TodoController  : 0
+2018-08-07 19:45:06.885  INFO 86104 --- [restartedMain] com.hand.ajax.Application                : Starting Application on DESKTOP-4QJHM35 with PID 86104 (E:\workspace\ajax\target\classes started by zhongLingYun in E:\workspace\ajax)
+2018-08-07 19:45:06.887  INFO 86104 --- [restartedMain] com.hand.ajax.Application                : No active profile set, falling back to default profiles: default
+2018-08-07 19:45:11.475  INFO 86104 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-08-07 19:45:11.476  INFO 86104 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.29
+2018-08-07 19:45:11.495  INFO 86104 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\jar\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;D:/jar/bin/server;D:/jar/bin;D:/jar/lib/amd64;D:\oracle\product\12.2.0\dbhome_1\bin;D:\app\zhongLingYun\virtual\product\12.2.0\dbhome_2\bin;D:\app\zhongLingYun\virtual\product\12.2.0\dbhome_1\bin;D:\apache-maven-3.5.2\bin;;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;"D:\jdk\bin;D:\jdk\jre\bin;";D:\Git\cmd;;%CATALINA_HOME%\bin ;D:\jdk\bin;C:\Users\zhongLingYun\AppData\Local\Microsoft\WindowsApps;;D:\eclipse-jee-oxygen-R-win32-x86_64\eclipse;;.]
+2018-08-07 19:45:12.714  INFO 86104 --- [localhost-startStop-1] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-08-07 19:45:12.719  INFO 86104 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/ajax]   : Initializing Spring embedded WebApplicationContext
+2018-08-07 19:45:19.105  INFO 86104 --- [restartedMain] com.hand.ajax.Application                : Started Application in 13.075 seconds (JVM running for 14.246)
+2018-08-07 19:45:19.112  INFO 86104 --- [restartedMain] com.hand.ajax.Application                : 启动完毕
+2018-08-07 19:45:25.891  INFO 86104 --- [http-nio-8080-exec-10] o.a.c.c.C.[Tomcat].[localhost].[/ajax]   : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-08-07 19:45:29.196  INFO 86104 --- [http-nio-8080-exec-9] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2018-08-07 19:45:29.722  INFO 86104 --- [http-nio-8080-exec-9] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2018-08-07 19:45:29.755  INFO 86104 --- [http-nio-8080-exec-9] com.hand.ajax.controller.TodoController  : 0
+2018-08-07 19:45:48.699  INFO 86104 --- [Thread-6] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2018-08-07 19:45:48.709  INFO 86104 --- [Thread-6] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2018-08-07 19:45:49.125  INFO 86104 --- [restartedMain] com.hand.ajax.Application                : Starting Application on DESKTOP-4QJHM35 with PID 86104 (E:\workspace\ajax\target\classes started by zhongLingYun in E:\workspace\ajax)
+2018-08-07 19:45:49.125  INFO 86104 --- [restartedMain] com.hand.ajax.Application                : No active profile set, falling back to default profiles: default
+2018-08-07 19:45:49.805  INFO 86104 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-08-07 19:45:49.806  INFO 86104 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.29
+2018-08-07 19:45:49.893  INFO 86104 --- [localhost-startStop-1] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-08-07 19:45:49.894  INFO 86104 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/ajax]   : Initializing Spring embedded WebApplicationContext
+2018-08-07 19:45:50.320  INFO 86104 --- [restartedMain] com.hand.ajax.Application                : Started Application in 1.258 seconds (JVM running for 45.462)
+2018-08-07 19:45:50.324  INFO 86104 --- [restartedMain] com.hand.ajax.Application                : 启动完毕
+2018-08-07 19:46:02.357  INFO 86104 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/ajax]   : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-08-07 19:46:04.742  INFO 86104 --- [http-nio-8080-exec-9] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2018-08-07 19:46:04.748  INFO 86104 --- [http-nio-8080-exec-9] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2018-08-07 19:46:04.749  INFO 86104 --- [http-nio-8080-exec-9] com.hand.ajax.controller.TodoController  : 0
+2018-08-07 19:47:27.874  INFO 86104 --- [Thread-10] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2018-08-07 19:47:27.885  INFO 86104 --- [Thread-10] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2018-08-07 19:47:28.360  INFO 86104 --- [restartedMain] com.hand.ajax.Application                : Starting Application on DESKTOP-4QJHM35 with PID 86104 (E:\workspace\ajax\target\classes started by zhongLingYun in E:\workspace\ajax)
+2018-08-07 19:47:28.362  INFO 86104 --- [restartedMain] com.hand.ajax.Application                : No active profile set, falling back to default profiles: default
+2018-08-07 19:47:29.101  INFO 86104 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-08-07 19:47:29.102  INFO 86104 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.29
+2018-08-07 19:47:29.151  INFO 86104 --- [localhost-startStop-1] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-08-07 19:47:29.153  INFO 86104 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/ajax]   : Initializing Spring embedded WebApplicationContext
+2018-08-07 19:47:29.579  INFO 86104 --- [restartedMain] com.hand.ajax.Application                : Started Application in 1.275 seconds (JVM running for 144.721)
+2018-08-07 19:47:29.581  INFO 86104 --- [restartedMain] com.hand.ajax.Application                : 启动完毕
+2018-08-07 19:47:34.243  INFO 89352 --- [restartedMain] com.hand.ajax.Application                : Starting Application on DESKTOP-4QJHM35 with PID 89352 (E:\workspace\ajax\target\classes started by zhongLingYun in E:\workspace\ajax)
+2018-08-07 19:47:34.246  INFO 89352 --- [restartedMain] com.hand.ajax.Application                : No active profile set, falling back to default profiles: default
+2018-08-07 19:47:38.467  INFO 89352 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-08-07 19:47:38.467  INFO 89352 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.29
+2018-08-07 19:47:38.491  INFO 89352 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\jar\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;D:/jar/bin/server;D:/jar/bin;D:/jar/lib/amd64;D:\oracle\product\12.2.0\dbhome_1\bin;D:\app\zhongLingYun\virtual\product\12.2.0\dbhome_2\bin;D:\app\zhongLingYun\virtual\product\12.2.0\dbhome_1\bin;D:\apache-maven-3.5.2\bin;;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;"D:\jdk\bin;D:\jdk\jre\bin;";D:\Git\cmd;;%CATALINA_HOME%\bin ;D:\jdk\bin;C:\Users\zhongLingYun\AppData\Local\Microsoft\WindowsApps;;D:\eclipse-jee-oxygen-R-win32-x86_64\eclipse;;.]
+2018-08-07 19:47:38.763  INFO 89352 --- [localhost-startStop-1] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-08-07 19:47:38.768  INFO 89352 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/ajax]   : Initializing Spring embedded WebApplicationContext
+2018-08-07 19:47:42.079  INFO 89352 --- [restartedMain] com.hand.ajax.Application                : Started Application in 8.469 seconds (JVM running for 9.702)
+2018-08-07 19:47:42.097  INFO 89352 --- [restartedMain] com.hand.ajax.Application                : 启动完毕
+2018-08-07 19:48:06.186  INFO 89352 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/ajax]   : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-08-07 19:49:11.274  INFO 89352 --- [http-nio-8080-exec-7] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2018-08-07 19:49:11.823  INFO 89352 --- [http-nio-8080-exec-7] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2018-08-07 19:49:11.863  INFO 89352 --- [http-nio-8080-exec-7] com.hand.ajax.controller.TodoController  : 0
+2018-08-07 19:49:25.110  INFO 89352 --- [http-nio-8080-exec-6] com.hand.ajax.controller.TodoController  : 4
+2018-08-07 19:50:45.653  INFO 89352 --- [Thread-6] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2018-08-07 19:50:45.665  INFO 89352 --- [Thread-6] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2018-08-07 19:50:46.154  INFO 89352 --- [restartedMain] com.hand.ajax.Application                : Starting Application on DESKTOP-4QJHM35 with PID 89352 (E:\workspace\ajax\target\classes started by zhongLingYun in E:\workspace\ajax)
+2018-08-07 19:50:46.154  INFO 89352 --- [restartedMain] com.hand.ajax.Application                : No active profile set, falling back to default profiles: default
+2018-08-07 19:50:47.084  INFO 89352 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-08-07 19:50:47.085  INFO 89352 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.29
+2018-08-07 19:50:47.142  INFO 89352 --- [localhost-startStop-1] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-08-07 19:50:47.145  INFO 89352 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/ajax]   : Initializing Spring embedded WebApplicationContext
+2018-08-07 19:50:47.541  INFO 89352 --- [restartedMain] com.hand.ajax.Application                : Started Application in 1.482 seconds (JVM running for 195.164)
+2018-08-07 19:50:47.545  INFO 89352 --- [restartedMain] com.hand.ajax.Application                : 启动完毕
+2018-08-07 19:53:11.500  INFO 89352 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/ajax]   : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-08-07 20:00:36.244  INFO 89352 --- [http-nio-8080-exec-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2018-08-07 20:00:36.250  INFO 89352 --- [http-nio-8080-exec-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2018-08-07 20:00:36.251  INFO 89352 --- [http-nio-8080-exec-5] com.hand.ajax.controller.TodoController  : 4
+2018-08-07 20:01:18.898  INFO 89352 --- [http-nio-8080-exec-2] com.hand.ajax.controller.TodoController  : 5
+2018-08-07 20:01:51.123  INFO 89352 --- [http-nio-8080-exec-3] com.hand.ajax.controller.TodoController  : 0
+2018-08-07 20:01:52.809  INFO 89352 --- [http-nio-8080-exec-4] com.hand.ajax.controller.TodoController  : 0
+2018-08-07 20:01:53.777  INFO 89352 --- [http-nio-8080-exec-6] com.hand.ajax.controller.TodoController  : 0
+2018-08-07 20:01:54.296  INFO 89352 --- [http-nio-8080-exec-8] com.hand.ajax.controller.TodoController  : 0
+2018-08-07 20:01:54.439  INFO 89352 --- [http-nio-8080-exec-9] com.hand.ajax.controller.TodoController  : 0
+2018-08-07 20:01:54.576  INFO 89352 --- [http-nio-8080-exec-5] com.hand.ajax.controller.TodoController  : 0
+2018-08-07 20:01:54.696  INFO 89352 --- [http-nio-8080-exec-10] com.hand.ajax.controller.TodoController  : 0
+2018-08-07 20:01:54.824  INFO 89352 --- [http-nio-8080-exec-7] com.hand.ajax.controller.TodoController  : 4
+2018-08-07 20:02:01.226  INFO 89352 --- [http-nio-8080-exec-4] com.hand.ajax.controller.TodoController  : 5
+2018-08-07 20:02:46.499  INFO 89352 --- [http-nio-8080-exec-10] com.hand.ajax.controller.TodoController  : 4
+2018-08-07 20:03:41.930  INFO 89352 --- [http-nio-8080-exec-6] com.hand.ajax.controller.TodoController  : 4
+2018-08-07 20:03:49.097  INFO 89352 --- [http-nio-8080-exec-8] com.hand.ajax.controller.TodoController  : 4
+2018-08-07 20:03:50.672  INFO 89352 --- [http-nio-8080-exec-9] com.hand.ajax.controller.TodoController  : 0
+2018-08-07 20:03:52.668  INFO 89352 --- [http-nio-8080-exec-5] com.hand.ajax.controller.TodoController  : 0
+2018-08-07 20:03:53.640  INFO 89352 --- [http-nio-8080-exec-10] com.hand.ajax.controller.TodoController  : 0
+2018-08-07 20:03:53.783  INFO 89352 --- [http-nio-8080-exec-7] com.hand.ajax.controller.TodoController  : 0
+2018-08-07 20:03:53.895  INFO 89352 --- [http-nio-8080-exec-1] com.hand.ajax.controller.TodoController  : 0
+2018-08-07 20:03:54.015  INFO 89352 --- [http-nio-8080-exec-2] com.hand.ajax.controller.TodoController  : 4
+2018-08-07 20:03:54.137  INFO 89352 --- [http-nio-8080-exec-3] com.hand.ajax.controller.TodoController  : 4
+2018-08-07 20:03:54.843  INFO 89352 --- [http-nio-8080-exec-4] com.hand.ajax.controller.TodoController  : 5
+2018-08-07 20:03:55.102  INFO 89352 --- [http-nio-8080-exec-6] com.hand.ajax.controller.TodoController  : 5
+2018-08-07 20:03:55.427  INFO 89352 --- [http-nio-8080-exec-8] com.hand.ajax.controller.TodoController  : 0
+2018-08-07 20:03:55.616  INFO 89352 --- [http-nio-8080-exec-9] com.hand.ajax.controller.TodoController  : 0
+2018-08-07 20:03:56.324  INFO 89352 --- [http-nio-8080-exec-5] com.hand.ajax.controller.TodoController  : 0
+2018-08-07 20:03:56.448  INFO 89352 --- [http-nio-8080-exec-10] com.hand.ajax.controller.TodoController  : 5
+2018-08-07 20:03:56.544  INFO 89352 --- [http-nio-8080-exec-7] com.hand.ajax.controller.TodoController  : 5
+2018-08-07 20:03:57.044  INFO 89352 --- [http-nio-8080-exec-1] com.hand.ajax.controller.TodoController  : 5
+2018-08-07 20:03:57.057  INFO 89352 --- [http-nio-8080-exec-2] com.hand.ajax.controller.TodoController  : 5
+2018-08-07 20:03:57.651  INFO 89352 --- [http-nio-8080-exec-3] com.hand.ajax.controller.TodoController  : 5
+2018-08-07 20:03:57.657  INFO 89352 --- [http-nio-8080-exec-3] com.hand.ajax.controller.TodoController  : 5
+2018-08-07 20:04:01.607  INFO 89352 --- [http-nio-8080-exec-6] com.hand.ajax.controller.TodoController  : 1
+2018-08-07 20:06:00.731  INFO 89352 --- [http-nio-8080-exec-4] com.hand.ajax.controller.TodoController  : 4
+2018-08-07 20:06:59.800  INFO 89352 --- [http-nio-8080-exec-6] com.hand.ajax.controller.TodoController  : 4
+2018-08-07 20:07:56.049  INFO 89352 --- [http-nio-8080-exec-8] com.hand.ajax.controller.TodoController  : 5
+2018-08-07 20:08:04.291  INFO 89352 --- [http-nio-8080-exec-9] com.hand.ajax.controller.TodoController  : 5
+2018-08-07 20:08:07.111  INFO 89352 --- [http-nio-8080-exec-5] com.hand.ajax.controller.TodoController  : 4
+2018-08-07 20:08:08.550  INFO 89352 --- [http-nio-8080-exec-10] com.hand.ajax.controller.TodoController  : 4
+2018-08-07 20:08:09.008  INFO 89352 --- [http-nio-8080-exec-7] com.hand.ajax.controller.TodoController  : 4
+2018-08-07 20:08:09.191  INFO 89352 --- [http-nio-8080-exec-1] com.hand.ajax.controller.TodoController  : 4
+2018-08-07 20:08:09.363  INFO 89352 --- [http-nio-8080-exec-2] com.hand.ajax.controller.TodoController  : 4
+2018-08-07 20:08:32.810  INFO 89352 --- [http-nio-8080-exec-4] com.hand.ajax.controller.TodoController  : 5
+2018-08-07 20:08:34.227  INFO 89352 --- [http-nio-8080-exec-3] com.hand.ajax.controller.TodoController  : 4
+2018-08-07 20:09:56.150  INFO 89352 --- [Thread-10] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2018-08-07 20:09:56.164  INFO 89352 --- [Thread-10] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2018-08-07 20:09:56.643  INFO 89352 --- [restartedMain] com.hand.ajax.Application                : Starting Application on DESKTOP-4QJHM35 with PID 89352 (E:\workspace\ajax\target\classes started by zhongLingYun in E:\workspace\ajax)
+2018-08-07 20:09:56.645  INFO 89352 --- [restartedMain] com.hand.ajax.Application                : No active profile set, falling back to default profiles: default
+2018-08-07 20:09:57.286  INFO 89352 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-08-07 20:09:57.286  INFO 89352 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.29
+2018-08-07 20:09:57.345  INFO 89352 --- [localhost-startStop-1] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-08-07 20:09:57.346  INFO 89352 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/ajax]   : Initializing Spring embedded WebApplicationContext
+2018-08-07 20:09:57.715  INFO 89352 --- [restartedMain] com.hand.ajax.Application                : Started Application in 1.118 seconds (JVM running for 1345.339)
+2018-08-07 20:09:57.718  INFO 89352 --- [restartedMain] com.hand.ajax.Application                : 启动完毕
+2018-08-07 20:09:57.899  INFO 89352 --- [http-nio-8080-exec-8] o.a.c.c.C.[Tomcat].[localhost].[/ajax]   : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-08-07 20:10:00.046  INFO 89352 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Starting...
+2018-08-07 20:10:00.051  INFO 89352 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Start completed.
+2018-08-07 20:10:00.053  INFO 89352 --- [http-nio-8080-exec-1] com.hand.ajax.controller.TodoController  : 4
+2018-08-07 20:10:02.743  INFO 89352 --- [http-nio-8080-exec-2] com.hand.ajax.controller.TodoController  : 0
+2018-08-07 20:10:07.606  INFO 89352 --- [http-nio-8080-exec-8] com.hand.ajax.controller.TodoController  : 1
+2018-08-07 20:10:08.734  INFO 89352 --- [http-nio-8080-exec-1] com.hand.ajax.controller.TodoController  : 1
+2018-08-07 20:10:09.310  INFO 89352 --- [http-nio-8080-exec-5] com.hand.ajax.controller.TodoController  : 1
+2018-08-07 20:10:09.520  INFO 89352 --- [http-nio-8080-exec-2] com.hand.ajax.controller.TodoController  : 1
+2018-08-07 20:10:09.695  INFO 89352 --- [http-nio-8080-exec-6] com.hand.ajax.controller.TodoController  : 1
+2018-08-07 20:10:09.845  INFO 89352 --- [http-nio-8080-exec-3] com.hand.ajax.controller.TodoController  : 1
+2018-08-07 20:10:09.966  INFO 89352 --- [http-nio-8080-exec-4] com.hand.ajax.controller.TodoController  : 1
+2018-08-07 20:10:44.321  INFO 89352 --- [http-nio-8080-exec-10] com.hand.ajax.controller.TodoController  : 1
+2018-08-07 20:11:05.207  INFO 89352 --- [http-nio-8080-exec-1] com.hand.ajax.controller.TodoController  : 1
+2018-08-07 20:13:01.490  INFO 89352 --- [http-nio-8080-exec-9] com.hand.ajax.controller.TodoController  : 4
+2018-08-07 20:15:37.691  INFO 89352 --- [http-nio-8080-exec-1] com.hand.ajax.controller.TodoController  : 4
+2018-08-07 20:16:08.128  INFO 89352 --- [http-nio-8080-exec-2] com.hand.ajax.controller.TodoController  : 1
+2018-08-07 20:16:12.124  INFO 89352 --- [http-nio-8080-exec-6] com.hand.ajax.controller.TodoController  : 1
+2018-08-07 20:16:17.911  INFO 89352 --- [http-nio-8080-exec-3] com.hand.ajax.controller.TodoController  : 1
+2018-08-07 20:18:12.899  INFO 89352 --- [http-nio-8080-exec-1] com.hand.ajax.controller.TodoController  : 4
+2018-08-07 20:22:22.252  INFO 89352 --- [http-nio-8080-exec-9] com.hand.ajax.controller.TodoController  : 4
+2018-08-07 20:22:34.871  INFO 89352 --- [http-nio-8080-exec-8] com.hand.ajax.controller.TodoController  : 0
+2018-08-07 20:22:38.889  INFO 89352 --- [http-nio-8080-exec-1] com.hand.ajax.controller.TodoController  : 0
+2018-08-07 20:22:38.902  INFO 89352 --- [http-nio-8080-exec-5] com.hand.ajax.controller.TodoController  : 0
+2018-08-07 20:22:55.953  INFO 89352 --- [http-nio-8080-exec-4] com.hand.ajax.controller.TodoController  : 1
+2018-08-07 20:24:18.243  INFO 89352 --- [http-nio-8080-exec-8] com.hand.ajax.controller.TodoController  : 4
+2018-08-07 20:24:18.408  INFO 89352 --- [http-nio-8080-exec-1] com.hand.ajax.controller.TodoController  : 4
+2018-08-07 20:24:19.263  INFO 89352 --- [http-nio-8080-exec-5] com.hand.ajax.controller.TodoController  : 4
+2018-08-07 20:24:21.697  INFO 89352 --- [http-nio-8080-exec-3] com.hand.ajax.controller.TodoController  : 0
+2018-08-07 20:24:22.085  INFO 89352 --- [http-nio-8080-exec-4] com.hand.ajax.controller.TodoController  : 0
+2018-08-07 20:24:23.326  INFO 89352 --- [http-nio-8080-exec-10] com.hand.ajax.controller.TodoController  : 1
+2018-08-07 20:24:26.191  INFO 89352 --- [http-nio-8080-exec-1] com.hand.ajax.controller.TodoController  : 4
+2018-08-07 20:24:28.495  INFO 89352 --- [http-nio-8080-exec-2] com.hand.ajax.controller.TodoController  : 1
