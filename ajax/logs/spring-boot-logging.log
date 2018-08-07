@@ -161,3 +161,5 @@
 2018-08-07 20:24:23.326  INFO 89352 --- [http-nio-8080-exec-10] com.hand.ajax.controller.TodoController  : 1
 2018-08-07 20:24:26.191  INFO 89352 --- [http-nio-8080-exec-1] com.hand.ajax.controller.TodoController  : 4
 2018-08-07 20:24:28.495  INFO 89352 --- [http-nio-8080-exec-2] com.hand.ajax.controller.TodoController  : 1
+2018-08-07 20:29:20.403  INFO 89352 --- [Thread-16] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown initiated...
+2018-08-07 20:29:20.407  INFO 89352 --- [Thread-16] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown completed.
