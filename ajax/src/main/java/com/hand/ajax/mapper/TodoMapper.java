@@ -2,6 +2,8 @@ package com.hand.ajax.mapper;
 
 import java.util.List;
 
+import org.springframework.stereotype.Repository;
+
 import com.hand.ajax.pojo.ItemsDTO;
 
 /** 
@@ -15,6 +17,7 @@ import com.hand.ajax.pojo.ItemsDTO;
     * @date 2018年8月7日 下午6:21:19 
  
 */
+@Repository
 public interface TodoMapper {
 	 
 	    /** 
