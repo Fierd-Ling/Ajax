@@ -16,9 +16,9 @@
 	<dependencies>
 
 		<!-- 排除springboot自帶tomcat 用于打包部署到服务器 -->
-		<!-- <dependency> <groupId>org.springframework.boot</groupId> <artifactId>spring-boot-starter-web</artifactId> 
+		<dependency> <groupId>org.springframework.boot</groupId> <artifactId>spring-boot-starter-web</artifactId> 
 			<exclusions> <exclusion> <groupId>org.springframework.boot</groupId> <artifactId>spring-boot-starter-tomcat</artifactId> 
-			</exclusion> </exclusions> </dependency> -->
+			</exclusion> </exclusions> </dependency>
 
 		<!-- spring web -->
 		<dependency>
@@ -40,19 +40,19 @@
 		</dependency>  
 		
 		<!-- tomcat spring boot 自帶， 热部署不支持外部Tomcat -->
-		<dependency>
+		<!-- <dependency>
 			<groupId>org.apache.tomcat.embed</groupId>
 			<artifactId>tomcat-embed-jasper</artifactId>
 			<scope>provided</scope>
-		</dependency>
+		</dependency> -->
 
 		<!-- 熱部署 -->
-		<dependency>
+		<!-- <dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
 			<optional>true</optional>
 			<scope>true</scope>
-		</dependency>
+		</dependency> -->
 
 		
 
