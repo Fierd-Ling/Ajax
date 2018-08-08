@@ -52,7 +52,10 @@ public class TodoController {
 		if("".equals(str)||str==null) {
 			return null;
 		}
+		// 此处制造异常
+		todoService=null;
 		List<ItemsDTO> list=todoService.findByInpute(str);
+		
 		log.info(list.size());
 		return list;
 		
